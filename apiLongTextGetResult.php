@@ -1,4 +1,5 @@
 <? 
+//STEP 2
 $resultId = 1900000; //Получаем $resultId из предыдущего шага (apiLongTextCreateTask.php)
 $error = null;
 if($resultId){
