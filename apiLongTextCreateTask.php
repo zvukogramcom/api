@@ -1,4 +1,5 @@
 <?
+//STEP 1
 $text = "озвучиваемый текст";
 $error = null;
 $resultId = 0;
